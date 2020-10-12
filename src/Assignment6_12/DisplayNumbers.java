@@ -18,7 +18,6 @@ public class DisplayNumbers {
 
     public static void main(String[] args) {
         printNumbers(1,10,5);
-        printNumbers(10,100,10);
     }
 
     public static void printNumbers(int num1, int num2, int numberPerLine){
